@@ -1,26 +1,24 @@
 # 📸 Instagram AI Studio
 
-An AI-powered Instagram Content Creation Platform built with Python, Streamlit, Google Gemini AI, and YOLOv8.
+An AI-powered Instagram content creation platform built with Python, Streamlit, YOLOv8, and Google Gemini AI.
 
 ## 🚀 Features
 
 - 🤖 AI Caption Generator
 - ✨ Caption Improver
 - 📅 Content Calendar Generator
-- 🎬 AI Reel Script Generator
+- 🎬 Reel Script Generator
 - 📈 Competitor Analyzer
-- 📊 Profile Auditor
+- 👤 Profile Auditor
 - 📧 Brand Collaboration Email Generator
-- #️⃣ AI Hashtag Generator
+- #️⃣ Hashtag Generator
 - 💬 AI Reply Generator
 - 😊 Sentiment Analyzer
 - 📈 Engagement Predictor
 - 🖼️ YOLO Image Analyzer
 - 📊 Analytics Dashboard
-- 📜 History Management
 - 🔐 Login System
-
----
+- 📜 History Management
 
 ## 🛠️ Tech Stack
 
@@ -28,11 +26,9 @@ An AI-powered Instagram Content Creation Platform built with Python, Streamlit, 
 - Streamlit
 - Google Gemini API
 - YOLOv8
-- SQLite
 - Pandas
+- SQLite
 - OpenCV
-
----
 
 ## 📂 Project Structure
 
@@ -44,15 +40,13 @@ Instagram-AI-Studio/
 ├── utils/
 ├── models/
 ├── assets/
-├── history/
 ├── data/
-├── requirements.txt
-└── README.md
+├── history/
+├── screenshots/
+└── requirements.txt
 ```
 
----
-
-## ⚙️ Installation
+## ▶️ Installation
 
 ```bash
 git clone https://github.com/aamirsalam97-design/Instagram-AI-Studio.git
@@ -64,14 +58,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 📷 Screenshots
-
-Add screenshots inside the `screenshots/` folder.
-
----
-
 ## 👨‍💻 Author
 
 **Aamir Salam**
@@ -81,6 +67,4 @@ https://github.com/aamirsalam97-design
 
 ---
 
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub.
+⭐ If you like this project, don't forget to star the repository.
