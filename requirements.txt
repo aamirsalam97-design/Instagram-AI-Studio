@@ -1,7 +1,7 @@
 streamlit
 google-generativeai
 ultralytics
-opencv-python
+opencv-python-headless
 pillow
 numpy
 pandas
