@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+ultralytics
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+plotly
+python-dotenv

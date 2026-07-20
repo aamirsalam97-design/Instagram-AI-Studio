@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+venv/
+
+# Database
+*.db
+
+# Node
+node_modules/
+
+# YOLO model
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
